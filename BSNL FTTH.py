@@ -10,11 +10,11 @@ import os
 import tempfile
 import base64
 import atexit
-
+#thisisimportfiles
 __author__ = "Ayushman Singh Chauhan"
 __version__ = "1.0.0"
 
-
+#this is themain code
 class main(tkinter.Tk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
